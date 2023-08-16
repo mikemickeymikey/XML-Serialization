@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FitxersBinaris.BinariArticles">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="FitxersBinaris.BinariArticles.Acces" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BinariArticles.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAQAAIAAAAMgABAARAABAEAQAQAAgAgEEAQAIAAAEA=</HashCode>
+      <FileName>BinariArticles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitxersBinaris.Article">
+    <Position X="5.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAQAAAAAAAAAAAAAIAAAACAgyAEAAMgBAAAAA=</HashCode>
+      <FileName>Article.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp1.frmArticles">
+    <Position X="10.25" Y="6.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAQQAAChAAABABAjACCYSA4AUECG0AgMAQIABIBw=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

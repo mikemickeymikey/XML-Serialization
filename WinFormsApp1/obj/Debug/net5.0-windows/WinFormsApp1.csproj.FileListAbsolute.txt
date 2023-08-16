@@ -1,0 +1,38 @@
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csprojAssemblyReference.cache
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.frmArticles.resources
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.frmExport.resources
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\FERRAN\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.frmArticles.resources
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.frmExport.resources
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\prof\Downloads\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida - DOM\AccesBinari - plantilla - buida\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll

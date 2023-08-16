@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<articles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Article>
+    <Codi>851234500001</Codi>
+    <Descripcio>ATOMIC - Vestido de tubo - white                                                                    </Descripcio>
+    <Preu>54.95</Preu>
+    <Color>black/creme                  </Color>
+    <Talla> 44               </Talla>
+  </Article>
+  <Article>
+    <Codi>851234500002</Codi>
+    <Descripcio>ATOMIC - Vestido de tubo - white                                                                    </Descripcio>
+    <Preu>54.95</Preu>
+    <Color>white                        </Color>
+    <Talla> 34               </Talla>
+  </Article>
+  <Article>
+    <Codi>851234500003</Codi>
+    <Descripcio>ATOMIC - Vestido de tubo - white                                                                    </Descripcio>
+    <Preu>54.95</Preu>
+    <Color>black/creme                  </Color>
+    <Talla> 34               </Talla>
+  </Article>
+  <Article>
+    <Codi>EL 5        </Codi>
+    <Descripcio>DESC5                                                                                               </Descripcio>
+    <Preu>155</Preu>
+    <Color>C5                           </Color>
+    <Talla>T5                </Talla>
+  </Article>
+  <Article>
+    <Codi>851234500005</Codi>
+    <Descripcio>ATOMIC - Vestido de tubo - white                                                                    </Descripcio>
+    <Preu>54.95</Preu>
+    <Color>black/creme                  </Color>
+    <Talla> 38               </Talla>
+  </Article>
+  <Article>
+    <Codi>851234500006</Codi>
+    <Descripcio>ATOMIC - Vestido de tubo - white                                                                    </Descripcio>
+    <Preu>54.95</Preu>
+    <Color>white                        </Color>
+    <Talla> 40               </Talla>
+  </Article>
+  <Article>
+    <Codi>851234500007</Codi>
+    <Descripcio>ATOMIC - Vestido de tubo - white                                                                    </Descripcio>
+    <Preu>54.95</Preu>
+    <Color>black/creme                  </Color>
+    <Talla> 40               </Talla>
+  </Article>
+  <Article>
+    <Codi>851234500008</Codi>
+    <Descripcio>ATOMIC - Vestido de tubo - white                                                                    </Descripcio>
+    <Preu>54.95</Preu>
+    <Color>white                        </Color>
+    <Talla> 36               </Talla>
+  </Article>
+  <Article>
+    <Codi>851234500009</Codi>
+    <Descripcio>ATOMIC - Vestido de tubo - white                                                                    </Descripcio>
+    <Preu>54.95</Preu>
+    <Color>black/creme                  </Color>
+    <Talla> 36               </Talla>
+  </Article>
+</articles>
